@@ -1,4 +1,4 @@
-# 💳 Détection de Fraude Bancaire — Projet Personnel
+# 💳 Détection de Fraude Bancaire
 
 Ce projet est un projet personnel que j'ai réalisé après avoir suivi un module d'introduction à l'IA.  
 J'ai voulu mettre en pratique ce que j'ai appris en travaillant sur un vrai dataset.
