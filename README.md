@@ -5,7 +5,7 @@ J'ai voulu mettre en pratique ce que j'ai appris en travaillant sur un vrai data
 
 ---
 
-## 🎯 C'est quoi ce projet ?
+##  C'est quoi ce projet ?
 
 J'ai essayé de construire un programme capable de détecter automatiquement les fraudes bancaires.  
 Le dataset contient **284 807 transactions réelles** — dont seulement 492 fraudes (0.17%).
@@ -22,7 +22,7 @@ Le défi principal : comment détecter quelque chose d'aussi rare ?
 
 ---
 
-## 🧪 Ce que j'ai fait
+##  Ce que j'ai fait
 
 1. **Analyser les données** — comprendre la distribution, les montants, le temps
 2. **Préparer les données** — normalisation, gestion des valeurs manquantes
@@ -31,7 +31,7 @@ Le défi principal : comment détecter quelque chose d'aussi rare ?
 
 ---
 
-## 📈 Résultats obtenus
+##  Résultats obtenus
 
 | Modèle | F1-Score | AUC-ROC |
 |---|---|---|
@@ -43,7 +43,7 @@ Le **Random Forest** a donné les meilleurs résultats.
 
 ---
 
-## 💡 Ce que j'ai appris
+##  Ce que j'ai appris
 
 - Pourquoi l'accuracy seule ne suffit pas sur des données déséquilibrées
 - L'importance du Recall quand les erreurs sont coûteuses
@@ -52,7 +52,7 @@ Le **Random Forest** a donné les meilleurs résultats.
 
 ---
 
-## 🛠️ Outils utilisés
+##  Outils utilisés
 
 - Python
 - Pandas, Matplotlib, Seaborn
