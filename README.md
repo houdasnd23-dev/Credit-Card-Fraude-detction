@@ -36,7 +36,7 @@ Le défi principal : comment détecter quelque chose d'aussi rare ?
 | Modèle | F1-Score | AUC-ROC |
 |---|---|---|
 | Logistic Regression | 0.109 | 0.969 |
-| **Random Forest** ⭐ | **0.841** | **0.973** |
+| **Random Forest**  | **0.841** | **0.973** |
 | XGBoost | 0.802 | 0.979 |
 
 Le **Random Forest** a donné les meilleurs résultats.
